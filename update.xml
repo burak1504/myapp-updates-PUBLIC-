@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>2.0.0</version>
-    <url>https://raw.githubusercontent.com/burak1504/myapp-updates-PUBLIC-/refs/heads/main/update.xml</url>
-    <changelog>Ilk surum</changelog>
+    <url>https://example.com/setup.exe</url>
+    <changelog>Test</changelog>
     <mandatory>false</mandatory>
 </item>
