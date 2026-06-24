@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>1.0.1</version>
+  <url>https://burak1504.github.io/myapp-updates-PUBLIC/MyAppSetup.exe</url>
+  <changelog>https://burak1504.github.io/myapp-updates-PUBLIC/changelog.txt</changelog>
+  <mandatory>false</mandatory>
+</item>
