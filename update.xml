@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.0.6</version>
+    <version>1.2.0.0</version>
     <url>https://github.com/burak1504/myapp-updates-PUBLIC-/releases/download/v2.0.6/SmartQuote_Setup_2.0.6.exe</url>
-    <changelog>Surum 2.0.6</changelog>
+    <changelog>Surum 1.2.0.0</changelog>
     <mandatory>false</mandatory>
 </item>
